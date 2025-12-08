@@ -1,4 +1,4 @@
-# :wave: Greetings, I'm Abdulwahab Alnemer
+# :wave::wave: Greetings, I'm Abdulwahab Alnemer
 
 **Software Engineering Graduate | Full-Stack Developer | Exploring Cybersecurity**
 
