@@ -8,7 +8,7 @@
 
 ## :bust_in_silhouette: About Me
 
-Software Engineering graduate with a strong foundation in software development, networks, and operating systems. Proficient in **C, C++, Java, Python, and JavaScript**, with hands-on experience in web and mobile development. Passionate about problem-solving, system efficiency, and digital transformation. Currently expanding my expertise through an intensive software development bootcamp at **Tuwaiq Academy**.
+Software Engineering graduate with a strong foundation in software development, networks, and operating systems. Proficient in **C, C++, C#, Java, Python, and JavaScript**, with hands-on experience in web and mobile development. Passionate about problem-solving, system efficiency, and digital transformation. Currently expanding my expertise through an intensive software development bootcamp at **Tuwaiq Academy**.
 
 ---
 
@@ -45,6 +45,7 @@ Selected for a competitive 16-week intensive bootcamp focusing on:
 ### Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -54,6 +55,8 @@ Selected for a competitive 16-week intensive bootcamp focusing on:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
