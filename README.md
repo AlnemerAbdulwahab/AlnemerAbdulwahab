@@ -107,21 +107,23 @@ Mobile exam preparation app designed for Saudi high school students.
 
 ## :book: Training Courses
 
-| Course | Issuer | Date |
-|--------|--------|------|
-| :mortar_board: **PeopleCert ITIL 4 Foundation** - ITIL4FND-Ex Training | Tuwaiq Academy | Sep 2025 |
-| :globe_with_meridians: **CompTIA Network+** - N10-009 Training | Tuwaiq Academy | Sep 2025 |
-| :lock: **CompTIA Security+** - SY0-701 Training | Tuwaiq Academy | Oct 2025 |
-| :cloud: **CompTIA Cloud+** - CV0-004 Training | Tuwaiq Academy | Oct 2025 |
-| :desktop_computer: **CompTIA Server+** - SK0-005 Training | Tuwaiq Academy | Oct 2025 |
+| Course | Type | Issuer | Date |
+|--------|------|--------|------|
+| :mortar_board: **PeopleCert ITIL 4 Foundation**  | ITIL4FND-Ex Training | Tuwaiq Academy | Sep 2025 |
+| :globe_with_meridians: **CompTIA Network+**  | N10-009 Training | Tuwaiq Academy | Sep 2025 |
+| :lock: **CompTIA Security+**  | SY0-701 Training | Tuwaiq Academy | Oct 2025 |
+| :cloud: **CompTIA Cloud+**  | CV0-004 Training | Tuwaiq Academy | Oct 2025 |
+| :desktop_computer: **CompTIA Server+**  | SK0-005 Training | Tuwaiq Academy | Oct 2025 |
 
 ---
 
 ## :scroll: Professional Certifications
 
-| Certificate | Issuer | Valid Until |
-|------------|--------|-------------|
-| :globe_with_meridians: **CompTIA Network+** - N10-009 | CompTIA | Nov 2028 |
-| :lock: **CompTIA Security+** - SY0-701 | CompTIA | Nov 2028 |
+| Certificate | Version | Issuer | Valid Until |
+|-------------|---------|--------|-------------|
+| :globe_with_meridians: **CompTIA Network+** | N10-009 | CompTIA | Nov 2028 |
+| :lock: **CompTIA Security+** | SY0-701 | CompTIA | Nov 2028 |
+| :desktop_computer: **CompTIA Server+** | SK0-005 | CompTIA | Nov 2028 |
+| :globe_with_meridians::desktop_computer: **CompTIA Network Infrastructure Professional - CNIP** | CNIP | CompTIA |  |
 
 ---
