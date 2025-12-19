@@ -90,7 +90,7 @@ A comprehensive mobile application for tracking and managing subscriptions.
 - 💰 Cost tracking and budgeting tools
 - 📈 Clear overview of billing dates and expenses
 
-🔗 **[Live Demo](https://alnemerabdulwahab.github.io/SubsTrack/)**
+🔗 **[Project Showcase](https://alnemerabdulwahab.github.io/SubsTrack/)**
 
 ---
 
