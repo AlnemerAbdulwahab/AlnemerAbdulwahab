@@ -1,18 +1,21 @@
-# :wave::wave: Greetings, I'm Abdulwahab Alnemer
+# 👋👋 Greetings, I'm Abdulwahab Alnemer
 
 **Software Engineering Graduate | Full-Stack Developer | Exploring Cybersecurity**
 
-:email: [alnemerabdulwahab@gmail.com](mailto:alnemerabdulwahab@gmail.com)
+📧 [alnemerabdulwahab@gmail.com](mailto:alnemerabdulwahab@gmail.com)  
+🌐 **Portfolio:** [alnemerabdulwahab.github.io](https://alnemerabdulwahab.github.io/)
 
 ---
 
-## :bust_in_silhouette: About Me
+## 👤 About Me
 
 Software Engineering graduate with a strong foundation in software development, networks, and operating systems. Proficient in **C, C++, C#, Java, Python, and JavaScript**, with hands-on experience in web and mobile development. Passionate about problem-solving, system efficiency, and digital transformation. Currently expanding my expertise through an intensive software development bootcamp at **Tuwaiq Academy**.
 
+🔗 **[View My Portfolio](https://alnemerabdulwahab.github.io/)** for projects, certifications, and more!
+
 ---
 
-## :mortar_board: Education
+## 🎓 Education
 
 ### Bachelor of Science in Software Engineering (BSSE)
 **Florida Institute of Technology** | *Aug 2020 - Dec 2024*  
@@ -26,21 +29,21 @@ Dean's List (2021)
 
 ---
 
-## :briefcase: Current Experience
+## 💼 Current Experience
 
 ### Information Technology - Software Development Bootcamp
 **Tuwaiq Academy** · *Trainee*  
 Sep 2025 - Present
 
 Selected for a competitive 16-week intensive bootcamp focusing on:
-- :white_check_mark: Full-Stack Development using **Microsoft .NET and C#**
-- :white_check_mark: Software Engineering principles: **SDLC and Git**
-- :white_check_mark: Hands-on projects and real-world industry-level tasks
-- :white_check_mark: Enrolled in **five professional certification courses**: PeopleCert ITIL v4, CompTIA Network+, Security+, Server+, Cloud+
+- ✅ Full-Stack Development using **Microsoft .NET and C#**
+- ✅ Software Engineering principles: **SDLC and Git**
+- ✅ Hands-on projects and real-world industry-level tasks
+- ✅ Enrolled in **five professional certification courses**: PeopleCert ITIL v4, CompTIA Network+, Security+, Server+, Cloud+
 
 ---
 
-## :computer: Technical Skills
+## 💻 Technical Skills
 
 ### Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
@@ -66,13 +69,13 @@ Selected for a competitive 16-week intensive bootcamp focusing on:
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ### Areas of Expertise
-- :globe_with_meridians: **Networking & Systems:** Operating Systems, Computer Networks
-- :file_cabinet: **Databases:** SQL, Firebase
-- :lock: **Cybersecurity:** Fundamentals and best practices
+- 🌐 **Networking & Systems:** Operating Systems, Computer Networks
+- 📁 **Databases:** SQL, Firebase
+- 🔒 **Cybersecurity:** Fundamentals and best practices
 
 ---
 
-## :trophy: Projects
+## 🏆 Projects
 
 ### <img src="substrack.png" alt="SubsTrack Icon" width="24" height="24"> SubsTrack - Subscription Management App
 **Florida Institute of Technology** | *Aug 2023 - May 2024*
@@ -82,10 +85,12 @@ A comprehensive mobile application for tracking and managing subscriptions.
 **Technologies:** React Native, JavaScript, Figma
 
 **Key Features:**
-- :bar_chart: Centralized dashboard for all user subscriptions
-- :bell: Intelligent renewal reminder system with customizable notifications
-- :moneybag: Cost tracking and budgeting tools
-- :chart_with_upwards_trend: Clear overview of billing dates and expenses
+- 📊 Centralized dashboard for all user subscriptions
+- 🔔 Intelligent renewal reminder system with customizable notifications
+- 💰 Cost tracking and budgeting tools
+- 📈 Clear overview of billing dates and expenses
+
+🔗 **[Live Demo](https://alnemerabdulwahab.github.io/SubsTrack/)**
 
 ---
 
@@ -97,33 +102,48 @@ Mobile exam preparation app designed for Saudi high school students.
 **Technologies:** React Native, JavaScript, Figma
 
 **Key Features:**
-- :question: Randomized question generation with instant scoring
-- :bar_chart: Performance tracking and progress monitoring
-- :art: User-friendly interface tailored for students
-- :iphone: Cross-platform support (iOS & Android)
-- :zap: Delivered functional prototype within one week
+- ❓ Randomized question generation with instant scoring
+- 📊 Performance tracking and progress monitoring
+- 🎨 User-friendly interface tailored for students
+- 📱 Cross-platform support (iOS & Android)
+- ⚡ Delivered functional prototype within one week
 
 ---
 
-## :book: Training Courses
+## 📚 Training Courses
 
 | Course | Type | Issuer | Date |
 |--------|------|--------|------|
-| :mortar_board: **PeopleCert ITIL 4 Foundation**  | ITIL4FND-Ex Training | Tuwaiq Academy | Sep 2025 |
-| :globe_with_meridians: **CompTIA Network+**  | N10-009 Training | Tuwaiq Academy | Sep 2025 |
-| :lock: **CompTIA Security+**  | SY0-701 Training | Tuwaiq Academy | Oct 2025 |
-| :cloud: **CompTIA Cloud+**  | CV0-004 Training | Tuwaiq Academy | Oct 2025 |
-| :desktop_computer: **CompTIA Server+**  | SK0-005 Training | Tuwaiq Academy | Oct 2025 |
+| 🎓 **PeopleCert ITIL 4 Foundation**  | ITIL4FND-Ex Training | Tuwaiq Academy | Sep 2025 |
+| 🌐 **CompTIA Network+**  | N10-009 Training | Tuwaiq Academy | Sep 2025 |
+| 🔒 **CompTIA Security+**  | SY0-701 Training | Tuwaiq Academy | Oct 2025 |
+| ☁️ **CompTIA Cloud+**  | CV0-004 Training | Tuwaiq Academy | Oct 2025 |
+| 🖥️ **CompTIA Server+**  | SK0-005 Training | Tuwaiq Academy | Oct 2025 |
 
 ---
 
-## :scroll: Professional Certifications
+## 📜 Professional Certifications
 
 | Certificate | Version | Issuer | Valid Until |
 |-------------|---------|--------|-------------|
-| :globe_with_meridians: **CompTIA Network+** | N10-009 | CompTIA | Nov 2028 |
-| :lock: **CompTIA Security+** | SY0-701 | CompTIA | Nov 2028 |
-| :desktop_computer: **CompTIA Server+** | SK0-005 | CompTIA | Nov 2028 |
-| :globe_with_meridians::desktop_computer: **CompTIA Network Infrastructure Professional - CNIP** | CNIP | CompTIA |  |
+| 🌐 **CompTIA Network+** | N10-009 | CompTIA | Nov 2028 |
+| 🔒 **CompTIA Security+** | SY0-701 | CompTIA | Nov 2028 |
+| 🖥️ **CompTIA Server+** | SK0-005 | CompTIA | Dec 2028 |
+| 🌐🖥️ **CompTIA Network Infrastructure Professional - CNIP** | CNIP | CompTIA | Dec 2025 |
+
+🏅 **[View All Certifications](https://alnemerabdulwahab.github.io/#certifications)**
 
 ---
+
+## 📫 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://alnemerabdulwahab.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulwahab-alnemer)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alnemerabdulwahab@gmail.com)
+
+---
+
+<div align="center">
+  <p>💼 Open to opportunities in software development and cybersecurity</p>
+  <p>🚀 Always learning, always building</p>
+</div>
