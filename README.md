@@ -129,7 +129,10 @@ Mobile exam preparation app designed for Saudi high school students.
 | 🌐 **CompTIA Network+** | N10-009 | CompTIA | Nov 2028 |
 | 🔒 **CompTIA Security+** | SY0-701 | CompTIA | Nov 2028 |
 | 🖥️ **CompTIA Server+** | SK0-005 | CompTIA | Dec 2028 |
-| 🌐🖥️ **CompTIA Network Infrastructure Professional - CNIP** | CNIP | CompTIA | Dec 2025 |
+| ☁️ **CompTIA Cloud+** | CV0-004 | CompTIA | Dec 2028 |
+| 🌐🖥️ **CompTIA Network Infrastructure Professional - CNIP** | CNIP | CompTIA | N/A |
+| ☁️🖥️ **CompTIA Cloud Admin Professional - CCAP** | CNIP | CompTIA | N/A |
+| 🌐☁️ **CompTIA Secure Cloud Professional - CSCP** | CNIP | CompTIA | N/A |
 
 🏅 **[View All Certifications](https://alnemerabdulwahab.github.io/#certifications)**
 
