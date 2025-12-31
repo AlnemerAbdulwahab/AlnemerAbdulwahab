@@ -9,7 +9,10 @@
 
 ## 👤 About Me
 
-Software Engineering graduate with a strong foundation in software development, networks, and operating systems. Proficient in **C, C++, C#, Java, Python, and JavaScript**, with hands-on experience in web and mobile development. Passionate about problem-solving, system efficiency, and digital transformation. Currently expanding my expertise through an intensive software development bootcamp at **Tuwaiq Academy**.
+Software Engineering graduate with a strong foundation in software development, networking, operating systems, and cloud infrastructure.
+**CompTIA Network+, Security+, Server+, and Cloud+** certified, demonstrating solid knowledge of network infrastructure, system security,
+server environments, and cloud fundamentals. Experienced in **C# and Java**, with hands-on development using **.NET and React**. Motivated to
+build reliable and secure systems, with a growing focus on infrastructure and cybersecurity, and a strong commitment to continuous learning..
 
 🔗 **[View My Portfolio](https://alnemerabdulwahab.github.io/)** for projects, certifications, and more!
 
@@ -36,7 +39,7 @@ Dean's List (2021)
 Sep 2025 - Present
 
 Selected for a competitive 16-week intensive bootcamp focusing on:
-- ✅ Full-Stack Development using **Microsoft .NET and C#**
+- ✅ Full-Stack Development using **Microsoft .NET, ASP.NET Core, and C#**
 - ✅ Software Engineering principles: **SDLC and Git**
 - ✅ Hands-on projects and real-world industry-level tasks
 - ✅ Enrolled in **five professional certification courses**: PeopleCert ITIL v4, CompTIA Network+, Security+, Server+, Cloud+
