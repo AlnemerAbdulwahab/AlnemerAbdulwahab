@@ -97,7 +97,7 @@ A comprehensive mobile application for tracking and managing subscriptions.
 
 ---
 
-### <img src="qudaratek.png" alt="Qudaratek Icon" width="24" height="24"> Qiyas Qudrat Exam Practice App
+### <img src="qudaratek.png" alt="Qudaratek Icon" width="24" height="24"> Qudratak - Qiyas Qudrat Exam Practice App
 **Independent Project - Vibe Coding** | *Aug 2024 - Sep 2024*
 
 Mobile exam preparation app designed for Saudi high school students.
@@ -110,6 +110,8 @@ Mobile exam preparation app designed for Saudi high school students.
 - 🎨 User-friendly interface tailored for students
 - 📱 Cross-platform support (iOS & Android)
 - ⚡ Delivered functional prototype within one week
+
+🔗 **[Project Showcase](https://github.com/AlnemerAbdulwahab/Qudratak-App-Showcase)**
 
 ---
 
