@@ -36,9 +36,9 @@ Dean's List (2021)
 
 ### Information Technology - Software Development Bootcamp
 **Tuwaiq Academy** · *Trainee*  
-Sep 2025 - Present
+Sep 2025 - Jan 2026
 
-Selected for a competitive 16-week intensive bootcamp focusing on:
+Graduated from a competitive 16-week intensive bootcamp focusing on:
 - ✅ Full-Stack Development using **Microsoft .NET, ASP.NET Core, and C#**
 - ✅ Software Engineering principles: **SDLC and Git**
 - ✅ Hands-on projects and real-world industry-level tasks
@@ -79,6 +79,23 @@ Selected for a competitive 16-week intensive bootcamp focusing on:
 ---
 
 ## 🏆 Projects
+
+### <img src="wasiyah.png" alt="Wasiyah Icon" width="24" height="24"> Wasiyah (منصة وصية) - Digital Inheritance Platform
+**Tuwaiq Academy (Graduation Project)** | *Jan 2026*
+
+A secure GovTech/FinTech web application designed to digitize the traditional inheritance process.
+
+**Technologies:** ASP.NET Core MVC, C#, SQL Server, Entity Framework, Bootstrap 5
+
+**Key Features:**
+- 🏛️ **Government Integration:** Simulation of automated will execution via Civil Affairs API triggers.
+- 🔐 **Advanced Security:** Role-Based Access Control (RBAC) and strict data isolation.
+- 📜 **Digital Drafting:** Secure creation, editing, and legal certification of wills.
+- 👥 **Smart Address Book:** Complex Many-to-Many architecture for managing beneficiaries independently.
+
+🔗 **[Project Showcase](https://github.com/AlnemerAbdulwahab/WasiyahApp-Showcase)**
+
+---
 
 ### <img src="substrack.png" alt="SubsTrack Icon" width="24" height="24"> SubsTrack - Subscription Management App
 **Florida Institute of Technology** | *Aug 2023 - May 2024*
@@ -122,7 +139,7 @@ Mobile exam preparation app designed for Saudi high school students.
 | 🎓 **PeopleCert ITIL 4 Foundation**  | ITIL4FND-Ex Training | Tuwaiq Academy | Sep 2025 |
 | 🌐 **CompTIA Network+**  | N10-009 Training | Tuwaiq Academy | Sep 2025 |
 | 🔒 **CompTIA Security+**  | SY0-701 Training | Tuwaiq Academy | Oct 2025 |
-| ☁️ **CompTIA Cloud+**  | CV0-004 Training | Tuwaiq Academy | Oct 2025 |
+| ☁ **CompTIA Cloud+**  | CV0-004 Training | Tuwaiq Academy | Oct 2025 |
 | 🖥️ **CompTIA Server+**  | SK0-005 Training | Tuwaiq Academy | Oct 2025 |
 
 ---
@@ -134,10 +151,10 @@ Mobile exam preparation app designed for Saudi high school students.
 | 🌐 **CompTIA Network+** | N10-009 | CompTIA | Nov 2028 |
 | 🔒 **CompTIA Security+** | SY0-701 | CompTIA | Nov 2028 |
 | 🖥️ **CompTIA Server+** | SK0-005 | CompTIA | Dec 2028 |
-| ☁️ **CompTIA Cloud+** | CV0-004 | CompTIA | Dec 2028 |
+| ☁ **CompTIA Cloud+** | CV0-004 | CompTIA | Dec 2028 |
 | 🌐🖥️ **CompTIA Network Infrastructure Professional - CNIP** | CNIP | CompTIA | N/A |
-| ☁️🖥️ **CompTIA Cloud Admin Professional - CCAP** | CNIP | CompTIA | N/A |
-| 🌐☁️ **CompTIA Secure Cloud Professional - CSCP** | CNIP | CompTIA | N/A |
+| ☁🖥️ **CompTIA Cloud Admin Professional - CCAP** | CNIP | CompTIA | N/A |
+| 🌐☁ **CompTIA Secure Cloud Professional - CSCP** | CNIP | CompTIA | N/A |
 
 🏅 **[View All Certifications](https://alnemerabdulwahab.github.io/#certifications)**
 
