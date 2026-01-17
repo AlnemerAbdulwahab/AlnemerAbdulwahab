@@ -80,7 +80,7 @@ Graduated from a competitive 16-week intensive bootcamp focusing on:
 
 ## 🏆 Projects
 
-### <img src="wasiyah.png" alt="Wasiyah Icon" width="24" height="24"> Wasiyah (منصة وصية) - Digital Inheritance Platform
+### <img src="WasiyahLogo.png" alt="Wasiyah Icon" width="24" height="24"> Wasiyah (منصة وصية) - Digital Inheritance Platform
 **Tuwaiq Academy (Graduation Project)** | *Jan 2026*
 
 A secure GovTech/FinTech web application designed to digitize the traditional inheritance process.
